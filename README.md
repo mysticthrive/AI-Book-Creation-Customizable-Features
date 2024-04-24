@@ -26,11 +26,11 @@ Book Creator Tool is a web-based application designed to automate the creation o
 
 1. Clone the repository:
    ```
-   git clone https://github.com/RaheesAhmed/book-generator.git
+   git clone https://github.com/Elite314Dev/AI-Book-Creation-Customizable-Features.git
    ```
    go to directory:
    ```
-   cd book-generator
+   cd AI-Book-Creation-Customizable-Features
    ```
 2. Install dependencies:
 
